@@ -1,7 +1,7 @@
 # Ansieta - Anxiety monitor
 
 This project was developed as a part of the "Design Thinking and Electronic Prototyping" course during the fall of 2022. Ansieta was created by a team of three:  
-Akseli Paakkola, Riccardo Billiato, and me.
+Akseli Paakkola, Riccardo Billiato, and Markus Andersson.
 
 ## General description
 The project aimed to develop a prototype for a habit-related wearable product. Our team decided to start taking a closer look at eating habits, more specifically eating disorders. 
